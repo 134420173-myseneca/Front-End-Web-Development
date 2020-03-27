@@ -1,1 +1,75 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook - Login or Sign Up</title>
+</head>
+<body>
+    <a href="https: //www.facebook.com"><h1>Facebook Logo</h1></a>
+    <form action="">
+        <table>
+            <tr>
+                <th>Email or Phone</th>
+                <th>Password</th>
+               
+            </tr>
+        <tr>
+         <td> <input type="text" name="" id=""></td>
+         <td> <input type="password" name="" id=""></td>
+         <td> <button>Log In</button></td>
+        </tr>
+                  <!-- <input type="button" value=""> -->
+                  <tr>
+                    <td> </td>
+                    <td> <a href="#">Forgotten account?</a></td>
+                    <td> </td>
+                   </tr>
+
+        </table>
+ <p>Facebook help you connect and share with people in your life.</p>
+<img src="TestSite/Images/facebook.jfif" alt="Facebook logo" width="25%">
+<p>Create an account <br> Its always free and will be.<br> An error occurred. Please try again</p>
+First name: <br>
+<input type="text" name="" id=""><br>
+Surname: <br>
+<input type="text" name="" id=""><br>
+Mobile number or Email address: <br>
+<input type="text" name="" id=""><br>
+Re-enter Mobile number or Email address: <br>
+<input type="text" name="" id=""><br>
+New password: <br>
+<input type="password" name="" id=""><br>
+Birthday: <br>
+<select name="Day" id="">
+    <option value="Monday">Monday</option>
+    <option value="Tuesday">Tuesday</option>
+    <option value="wednesday">wednesday</option>
+    <option value="Thursday">Thursday</option>
+    <option value="Friday">Friday</option>
+    <option value="Saturday">Saturday</option>
+    <option value="Sunday">Sunday</option>
+</select>
+<select name="Month" id="">
+    <option value="january">January</option>
+    <option value="February">February</option>
+    <option value="march">March</option>
+
+</select>
+<select name="Year" id="">
+    <option value="2016">2016</option>
+    <option value="2017">2017</option>
+    <option value="2018">2018</option>
+
+</select>
+<p><a href="#">Why i need to provide my date of birth</a><br>
+Male: 
+<input type="radio" name="" id="">
+Female:
+<input type="radio" name="" id=""><br>
+<p>By clicking create an account you agree our <a href="#">Terms</a> and <a href="#">Conditions</a> and <a href="#">Privacy Policy</a> .</p>
+<button>Create account</button>
+    </form>
+</body>
+</html>
